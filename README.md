@@ -1,5 +1,8 @@
+This is a solid roadmap. Security+ is a beast of acronyms, so keeping it structured is the only way to keep your sanity. I've formatted this into clean, "GitHub-flavored" Markdown with clear hierarchies, visual separators, and interactive checklists.
 🛡️ CompTIA Security+ (SY0-701) Study Roadmap
-A 60-Day Strategic Plan
+
+    A 60-Day Strategic Plan to Certification
+
 🏗️ Phase 1: Building the Foundation (Days 1–14)
 
 Goal: Master how data moves before you try to protect it.
@@ -14,29 +17,39 @@ Goal: Master how data moves before you try to protect it.
 
         Topics: Servers vs. Clients, Virtualization, Cloud Models (IaaS, PaaS, SaaS).
 
-    💡 Resource Tip: Search "Networking for Beginners" on YouTube to visualize packet travel.
+    [!TIP]
+    Resource Tip: Search "Networking for Beginners" on YouTube to visualize packet travel.
 
 🔐 Phase 2: Core Security Concepts (Days 15–30)
 
 Goal: Understand the "Why" and the "Who."
 
-    Days 15–22: Domain 1 (Security Concepts) * The Big Three: CIA Triad (Confidentiality, Integrity, Availability).
+    Days 15–22: Domain 1 (Security Concepts)
+
+        The Big Three: CIA Triad (Confidentiality, Integrity, Availability).
 
         Frameworks: AAA (Authentication, Authorization, Accounting) and Cryptography (Hashing vs. Encryption).
 
-    Days 23–30: Domain 2 (Threats & Vulnerabilities) * Topics: Malware types, Social Engineering, and common exploits.
+    Days 23–30: Domain 2 (Threats & Vulnerabilities)
 
-    🧠 Active Learning: Start an Acronym Flashcard Deck. Security+ is 50% just learning a new language.
+        Topics: Malware types, Social Engineering, and common exploits.
+
+    [!IMPORTANT]
+    Active Learning: Start an Acronym Flashcard Deck. Security+ is 50% just learning a new language.
 
 🏰 Phase 3: Defensive Architecture & Operations (Days 31–45)
 
 Goal: Building the walls and monitoring the gates.
 
-    Days 31–38: Domain 3 (Security Architecture) * Tools: Firewalls, IDS/IPS, Zero Trust architecture.
+    Days 31–38: Domain 3 (Security Architecture)
+
+        Tools: Firewalls, IDS/IPS, Zero Trust architecture.
 
         Design: Secure network topology and physical security.
 
-    Days 39–45: Domain 4 (Security Operations) * Focus: IAM (Identity and Access Management), Incident Response, and Digital Forensics.
+    Days 39–45: Domain 4 (Security Operations)
+
+        Focus: IAM (Identity and Access Management), Incident Response, and Digital Forensics.
 
         Scenario: What do you do the moment a breach is detected?
 
@@ -44,13 +57,21 @@ Goal: Building the walls and monitoring the gates.
 
 Goal: The business side of security and the final sprint.
 
-    Days 46–50: Domain 5 (Program Management) * Topics: Risk Management, Disaster Recovery, and Privacy (GDPR is vital for your Belgian context).
+    Days 46–50: Domain 5 (Program Management)
 
-    Days 51–56: The practice Test Marathon * Take full-length tests. Crucial: Spend more time reviewing why your wrong answers were wrong than you did taking the test.
+        Topics: Risk Management, Disaster Recovery, and Privacy (GDPR is vital for your Belgian context).
 
-    Days 57–59: Targeted Review & PBQs * Watch Performance-Based Question (PBQ) walkthroughs.
+    Days 51–56: The Practice Test Marathon
 
-    Day 60: Light Review & Rest * Review ports and acronyms. No heavy lifting.
+        Take full-length tests. Crucial: Spend more time reviewing why your wrong answers were wrong than you did taking the test.
+
+    Days 57–59: Targeted Review & PBQs
+
+        Watch Performance-Based Question (PBQ) walkthroughs.
+
+    Day 60: Light Review & Rest
+
+        Review ports and acronyms. No heavy lifting.
 
 🏁 Progress Checklist
 

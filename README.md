@@ -1,77 +1,83 @@
-# CompTIA-Security-
-The 60-Day Security+ (SY0-701) Study Roadmap
+🛡️ CompTIA Security+ (SY0-701) Study Roadmap
+A 60-Day Strategic Plan
+🏗️ Phase 1: Building the Foundation (Days 1–14)
 
-Phase 1: Building the Foundation (Days 1–14)
+Goal: Master how data moves before you try to protect it.
 
-Days 1–7: Networking Basics. 
-Focus on how devices talk to each other. 
-Learn the OSI model, IP addressing (IPv4/IPv6), subnetting, DNS, DHCP, and standard ports (HTTP, HTTPS, SSH, FTP, etc.).
+    Days 1–7: Networking Basics Focus on the "plumbing" of the internet.
 
-Days 8–14: Systems & Infrastructure.
-Understand the components of an enterprise environment. 
-Learn the difference between servers and clients, what an Operating System does, virtualization, and cloud computing (IaaS vs. PaaS vs. SaaS).
+        Topics: OSI Model, IPv4 vs. IPv6, Subnetting, DNS, DHCP.
 
-Resource Tip: Look for "Networking for Beginners" playlists on YouTube.
+        Standard Ports: Learn HTTP (80), HTTPS (443), SSH (22), FTP (20/21), etc.
 
+    Days 8–14: Systems & Infrastructure Understand the enterprise landscape.
 
-Phase 2: The Core Security Concepts (Days 15–30)
+        Topics: Servers vs. Clients, Virtualization, Cloud Models (IaaS, PaaS, SaaS).
 
-Days 15–22: Domains 1 (Security Concepts). 
-Focus on the CIA Triad, the AAA framework, and the basics of cryptography (how encryption and hashing provide security).
+    💡 Resource Tip: Search "Networking for Beginners" on YouTube to visualize packet travel.
 
-Days 23–30: Domain 2 (Threats, Vulnerabilities, & Mitigations). 
-Study different malware types, social engineering, and the common ways software and hardware vulnerabilities are exploited.
+🔐 Phase 2: Core Security Concepts (Days 15–30)
 
-Active Learning: Start a flashcard deck for every acronym you encounter.
+Goal: Understand the "Why" and the "Who."
 
+    Days 15–22: Domain 1 (Security Concepts) * The Big Three: CIA Triad (Confidentiality, Integrity, Availability).
 
-Phase 3: Defensive Architecture & Operations (Days 31–45)
+        Frameworks: AAA (Authentication, Authorization, Accounting) and Cryptography (Hashing vs. Encryption).
 
-Days 31–38: Domain 3 (Security Architecture). 
-Learn how to secure a network. 
-Study firewalls, intrusion detection systems, Zero Trust, and how to design a secure network topology.
+    Days 23–30: Domain 2 (Threats & Vulnerabilities) * Topics: Malware types, Social Engineering, and common exploits.
 
-Days 39–45: Domain 4 (Security Operations). 
-This is often the largest domain.
-Focus on Identity and Access Management (IAM), incident response procedures, and digital forensics.
-Learn the steps an organization takes when a breach happens.
+    🧠 Active Learning: Start an Acronym Flashcard Deck. Security+ is 50% just learning a new language.
 
+🏰 Phase 3: Defensive Architecture & Operations (Days 31–45)
 
-Phase 4: Governance & Exam Readiness (Days 46–60)
+Goal: Building the walls and monitoring the gates.
 
-Days 46–50: Domain 5 (Security Program Management). 
-Study risk management, business continuity, disaster recovery, and data privacy regulations (like GDPR, since you are based in Belgium).
+    Days 31–38: Domain 3 (Security Architecture) * Tools: Firewalls, IDS/IPS, Zero Trust architecture.
 
-Days 51–56: The Practice Test Marathon. 
-Take full-length practice exams. 
-Do not look at the answers immediately. 
-After each test, grade yourself, and then spend hours reading why the wrong answers were wrong. 
-This is the most important part of your preparation.
+        Design: Secure network topology and physical security.
 
-Days 57–59: Targeted Review & PBQs. 
-Review your weak areas identified by your practice tests. 
-Watch "Performance-Based Question" (PBQ) walkthroughs on YouTube.
+    Days 39–45: Domain 4 (Security Operations) * Focus: IAM (Identity and Access Management), Incident Response, and Digital Forensics.
 
-Day 60: Light Review & Rest.
-Do not cram. 
-Review your acronyms and ports list. 
-Relax. You’ve done the work.
+        Scenario: What do you do the moment a breach is detected?
 
+📋 Phase 4: Governance & Exam Readiness (Days 46–60)
 
-Three "Gold Rules" for Your Success:
+Goal: The business side of security and the final sprint.
 
-    Consistency beats intensity. 
-    90 minutes of focused study every day.
+    Days 46–50: Domain 5 (Program Management) * Topics: Risk Management, Disaster Recovery, and Privacy (GDPR is vital for your Belgian context).
 
-    Teach it back.
-    If you can’t explain a concept (like why HTTPS is more secure than HTTP) in plain English to a friend or an empty room, you don't know it well enough yet.
+    Days 51–56: The practice Test Marathon * Take full-length tests. Crucial: Spend more time reviewing why your wrong answers were wrong than you did taking the test.
 
-    Prioritize the "Why." 
-    If you understand how a system works, you don't have to memorize every single security rule—it will become intuitive.
+    Days 57–59: Targeted Review & PBQs * Watch Performance-Based Question (PBQ) walkthroughs.
 
+    Day 60: Light Review & Rest * Review ports and acronyms. No heavy lifting.
 
-Recommended Free Resources:
+🏁 Progress Checklist
 
-    Professor Messer (YouTube): "Security+ SY0-701 Training Course"
+    [ ] Phase 1 Complete: Networking & Infrastructure basics mastered.
 
-    Cyberkraft (YouTube): Search for his channel when you get to the "PBQ" stage.
+    [ ] Phase 2 Complete: CIA Triad and Threats understood.
+
+    [ ] Phase 3 Complete: Architecture & Incident Response procedures memorized.
+
+    [ ] Phase 4 Complete: Risk management and Data Privacy grasped.
+
+    [ ] Acronym Deck: All key abbreviations memorized.
+
+    [ ] Practice Exam: Scoring consistently above 80%.
+
+    [ ] PBQ Prep: Comfortable with "drag-and-drop" and simulation questions.
+
+🏆 The Gold Rules
+
+    Consistency > Intensity: 90 minutes every single day is better than an 8-hour Saturday cram session.
+
+    Teach it back: Explain Zero Trust to a wall. If you stumble, you don't know it yet.
+
+    Prioritize the "Why": If you know how a system works, the security rules become common sense.
+
+📚 Recommended Resources
+
+    Professor Messer (YouTube): The "Gold Standard" for free SY0-701 training.
+
+    Cyberkraft (YouTube): Excellent for visualizing PBQs.

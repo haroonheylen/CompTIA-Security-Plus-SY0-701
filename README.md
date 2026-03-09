@@ -1,277 +1,114 @@
-# 🛡️ CompTIA Security+ (SY0-701) Study Roadmap
+# 🛡️ CompTIA Security+ (SY0-701) Study Repository
 
-![Security+](https://img.shields.io/badge/Certification-CompTIA%20Security%2B-red)
-![Exam Version](https://img.shields.io/badge/Exam-SY0--701-blue)
+![Certification](https://img.shields.io/badge/Certification-Security%2B-red)
+![Exam](https://img.shields.io/badge/Exam-SY0--701-blue)
 ![Study Plan](https://img.shields.io/badge/Duration-60%20Days-success)
-![Status](https://img.shields.io/badge/Progress-In%20Progress-yellow)
 
-> 🎯 **Goal:** Pass the CompTIA Security+ (SY0-701) exam in **60 days** with structured daily study.
-
----
-
-# 📊 Study Progress
-
-| Phase | Topic | Status |
-|------|------|------|
-| Phase 1 | Networking Foundations | ⬜ Not Started |
-| Phase 2 | Core Security Concepts | ⬜ Not Started |
-| Phase 3 | Security Architecture & Operations | ⬜ Not Started |
-| Phase 4 | Governance & Exam Readiness | ⬜ Not Started |
-| Practice Exams | 80%+ Consistent Score | ⬜ Not Started |
+This repository contains my **complete study notes and resources** for passing the **CompTIA Security+ (SY0-701)** certification.
 
 ---
 
-# 🏗️ Phase 1 — Building the Foundation (Days 1–14)
+# 🎯 Goals
 
-**Goal:** Understand how data moves before protecting it.
-
-<details>
-<summary>📘 Days 1–7 — Networking Basics</summary>
-
-### Focus
-Learn the **plumbing of the internet**.
-
-**Topics**
-- OSI Model
-- IPv4 vs IPv6
-- Subnetting
-- DNS
-- DHCP
-
-**Important Ports**
-
-| Protocol | Port |
-|--------|------|
-| HTTP | 80 |
-| HTTPS | 443 |
-| SSH | 22 |
-| FTP | 20/21 |
-
-> 💡 **Tip:** Watch *Networking for Beginners* videos to visualize packet flow.
-
-</details>
+- Pass Security+ within **60 days**
+- Build **strong cybersecurity fundamentals**
+- Document all notes and study resources
+- Track practice exam progress
 
 ---
 
-<details>
-<summary>🖥️ Days 8–14 — Systems & Infrastructure</summary>
+# 📚 Study Roadmap
 
-### Topics
-
-- Servers vs Clients
-- Virtualization
-- Cloud Computing
-
-### Cloud Models
-
-| Model | Meaning |
+| Phase | Topic |
 |------|------|
-| IaaS | Infrastructure as a Service |
-| PaaS | Platform as a Service |
-| SaaS | Software as a Service |
+| Phase 1 | Networking Foundations |
+| Phase 2 | Core Security Concepts |
+| Phase 3 | Security Architecture |
+| Phase 4 | Governance & Risk |
+| Phase 5 | Practice Exams |
 
-</details>
+Full plan here:
 
----
-
-# 🔐 Phase 2 — Core Security Concepts (Days 15–30)
-
-**Goal:** Understand the **Why** and **Who** behind security.
-
-<details>
-<summary>📖 Days 15–22 — Domain 1: Security Concepts</summary>
-
-### CIA Triad
-
-| Principle | Meaning |
-|----------|--------|
-| Confidentiality | Prevent unauthorized access |
-| Integrity | Prevent unauthorized changes |
-| Availability | Ensure systems remain accessible |
-
-### Security Frameworks
-
-**AAA Model**
-
-- Authentication
-- Authorization
-- Accounting
-
-### Cryptography
-
-- Hashing
-- Encryption
-- Symmetric vs Asymmetric
-
-</details>
+📄 `roadmap/60-day-study-plan.md`
 
 ---
 
-<details>
-<summary>⚠️ Days 23–30 — Domain 2: Threats & Vulnerabilities</summary>
+# 📂 Study Notes
 
-### Topics
-
-- Malware Types
-- Social Engineering
-- Common Exploits
-
-> 🚨 **Important:** Start an **Acronym Flashcard Deck**  
-Security+ is almost a **new language of abbreviations**.
-
-</details>
+| Topic | File |
+|-----|-----|
+| Networking | `notes/networking.md` |
+| Security Concepts | `notes/security-concepts.md` |
+| Threats & Vulnerabilities | `notes/threats-and-vulnerabilities.md` |
+| Security Architecture | `notes/security-architecture.md` |
+| Security Operations | `notes/security-operations.md` |
+| Governance & Risk | `notes/governance-and-risk.md` |
 
 ---
 
-# 🏰 Phase 3 — Defensive Architecture & Operations (Days 31–45)
+# 🧠 Flashcards
 
-**Goal:** Build defenses and monitor attacks.
+Acronyms and definitions:
 
-<details>
-<summary>🧱 Days 31–38 — Domain 3: Security Architecture</summary>
-
-### Security Tools
-
-- Firewalls
-- IDS / IPS
-- Zero Trust Architecture
-
-### Secure Design
-
-- Network segmentation
-- Secure topology
-- Physical security controls
-
-</details>
+`flashcards/acronyms.md`
 
 ---
 
-<details>
-<summary>🛡️ Days 39–45 — Domain 4: Security Operations</summary>
+# 📋 Cheat Sheets
 
-### Focus Areas
+Quick exam references.
 
-- Identity & Access Management (IAM)
-- Incident Response
-- Digital Forensics
-
-### Key Scenario
-
-**What do you do immediately after detecting a breach?**
-
-</details>
+- `cheat-sheets/ports.md`
+- `cheat-sheets/encryption.md`
+- `cheat-sheets/incident-response.md`
 
 ---
 
-# 📋 Phase 4 — Governance & Exam Readiness (Days 46–60)
+# 📝 Practice Exam Tracker
 
-**Goal:** Understand the business side of security and finalize exam prep.
+Track your practice test scores.
 
-<details>
-<summary>📊 Days 46–50 — Domain 5: Program Management</summary>
-
-### Topics
-
-- Risk Management
-- Disaster Recovery
-- Privacy Regulations
-
-> 🇪🇺 **GDPR** is especially important if you work in Europe.
-
-</details>
+`practice-exams/exam-log.md`
 
 ---
 
-<details>
-<summary>📝 Days 51–56 — Practice Exam Marathon</summary>
+# 🔬 Hands-on Labs
 
-Take **full-length practice exams**.
+Lab exercises and practical cybersecurity learning.
 
-### Critical Strategy
-
-Spend more time reviewing **wrong answers** than taking the exam.
-
-</details>
+`labs/hands-on-practice.md`
 
 ---
 
-<details>
-<summary>🎯 Days 57–59 — PBQ Preparation</summary>
+# ⭐ Recommended Learning Resources
 
-Study **Performance-Based Questions**:
+### Free
 
-- Drag-and-drop tasks
-- Network configuration scenarios
-- Security troubleshooting
+- Professor Messer (YouTube)
+- Cyberkraft (PBQ walkthroughs)
 
-</details>
+### Practice Tests
 
----
-
-<details>
-<summary>🧘 Day 60 — Light Review</summary>
-
-Final review:
-
-- Ports
-- Acronyms
-- Core frameworks
-
-No heavy studying — **rest your brain**.
-
-</details>
+- ExamCompass
+- Dion Training
+- CompTIA CertMaster
 
 ---
 
-# ✔ Certification Progress Checklist
+# 🏆 Progress Tracker
 
-- [ ] Networking Fundamentals Mastered
-- [ ] CIA Triad Fully Understood
-- [ ] Threat & Vulnerability Knowledge Solid
-- [ ] Security Architecture Concepts Clear
-- [ ] Incident Response Process Memorized
-- [ ] Risk Management Concepts Learned
-- [ ] Acronym Deck Completed
-- [ ] Practice Exams Consistently Above **80%**
-- [ ] Comfortable with PBQ Simulations
+- [ ] Networking Fundamentals
+- [ ] Security Concepts
+- [ ] Threats & Vulnerabilities
+- [ ] Security Architecture
+- [ ] Security Operations
+- [ ] Governance & Risk
+- [ ] Practice Exams Above 80%
 
 ---
 
-# 🏆 The Three Gold Rules
+# 📅 Target Exam Date
 
-### 1️⃣ Consistency > Intensity
-Study **90 minutes daily** instead of cramming.
-
-### 2️⃣ Teach It Back
-Explain concepts out loud.
-
-If you can't teach it, **you don't fully know it**.
-
-### 3️⃣ Understand the "Why"
-When you understand **how systems work**, security becomes logical.
-
----
-
-# 📚 Recommended Resources
-
-### 🎥 Free Training
-
-- **Professor Messer (YouTube)**  
-  The gold standard for **Security+ training**
-
-- **Cyberkraft (YouTube)**  
-  Excellent **PBQ walkthroughs**
-
----
-
-# ⭐ Optional Enhancements
-
-You can improve this repo by adding:
-
-- 📓 Personal study notes
-- 🧠 Acronym glossary
-- 📝 Practice exam logs
-- 🔐 Security labs
-- 📅 Daily study journal
+**TBD**
 
 ---

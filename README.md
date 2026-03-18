@@ -8,6 +8,15 @@ This repository contains my **complete study notes and resources** for passing t
 
 ---
 
+# Milestones
+
+- [ ] 19 Mar: Finish Acronym & Port Flashcards for Anki Deck
+- [ ] 2 April: Complete Professor Messer Youtube Series
+- [ ] 1 May: Complete Comptia Security+ Labs
+- [ ] 27 May: Write Comptia Security+ Exam
+
+---
+
 # 🎯 Goals
 
 - Pass Security+ within **60 days**
@@ -109,6 +118,6 @@ Lab exercises and practical cybersecurity learning.
 
 # 📅 Target Exam Date
 
-**TBD**
+**27 May 2026**
 
 ---

@@ -10,7 +10,7 @@ This repository contains my **complete study notes and resources** for passing t
 
 # Milestones
 
-- [ ] 19 Mar: Finish Acronym & Port Flashcards for Anki Deck
+- [X] 19 Mar: Finish Acronym & Port Flashcards for Anki Deck
 - [ ] 2 April: Complete Professor Messer Youtube Series
 - [ ] 1 May: Complete Comptia Security+ Labs
 - [ ] 27 May: Write Comptia Security+ Exam
